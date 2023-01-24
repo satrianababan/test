@@ -1,0 +1,3 @@
+Kartu : 1 1 1 1
+No solution found
+Lama Waktu eksekusi: 0.002s
